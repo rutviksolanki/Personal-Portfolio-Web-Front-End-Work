@@ -1369,6 +1369,9 @@ h5{
 
 /* ==================================================== RESPONSIVE WEB===================================================== */
 @media screen and (min-width: 867px){ /* > 968 */
+	.modal-box{
+		width:550px!important;
+	}
 	.Navbar-Portion .small-nav{
 		display: none;
 	}
@@ -1379,6 +1382,9 @@ h5{
 	}
 }
 @media screen and (max-width: 992px) and (min-width: 768px){/* 967px to 768px */
+	.modal-box{
+		width:550px!important;
+	}
 	.Navbar-Portion{
 		padding: 8px 0;
 	}
@@ -1387,6 +1393,9 @@ h5{
 	}
 }
 @media screen and (max-width: 967px) and (min-width: 768px){/* 868px to 768px */
+	.modal-box{
+		width:550px!important;
+	}
 	.Banner-Portion .grid-xl-12{
 		flex-direction: column-reverse;
 	}
@@ -1406,7 +1415,7 @@ h5{
 }
 @media screen and (max-width: 767px) and (min-width: 468px){/* 767px to 468px */
 	.modal-box{
-		width:400px!important;
+		width:450px!important;
 	}
 	.container:not(.Navbar-Portion,.Banner-Portion,.Footer-Portion){
 		padding: 40px 0!important;
