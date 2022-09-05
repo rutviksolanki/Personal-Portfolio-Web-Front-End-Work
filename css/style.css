@@ -154,7 +154,7 @@ body.Dark-Mode .Theme-Portion .theme-box:before{
 	background: var(--background-v1);
 	border-radius: var(--corner-radius);
 	box-shadow: var(--shadow);
-	width: 350px;
+	width: 300px;
 }
 .modal-box .modal-close{
 	display: flex;
