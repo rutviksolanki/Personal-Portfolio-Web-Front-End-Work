@@ -2,7 +2,7 @@
 <li>Complete Responsive Personal Portfolio Website Using HTML CSS&amp; Javascript</li> 
 <li>You Want to See Just Click 😜: </li>
 https://rutviksolanki.github.io/Personal-Portfolio-Web-Front-End-Work/
-![2022-09-03_22-03-37](https://user-images.githubusercontent.com/86197517/188396965-7e4a5588-353f-498c-8883-7963fa36bc12.jpg)
+![2022-09-03_22-03-37](https://user-images.githubusercontent.com/86197517/188397067-242e410c-612b-46e9-bc31-f8af068d6f73.jpg)
 
 
 <li>creative personal portfolio web design and i tried add best functionality like Light mode/Dark mode, 
